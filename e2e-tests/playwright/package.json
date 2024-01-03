@@ -15,7 +15,7 @@
         "postinstall": "npx playwright install"
     },
     "dependencies": {
-        "@axe-core/playwright": "4.7.3",
+        "@axe-core/playwright": "4.8.2",
         "@percy/cli": "1.27.1",
         "@percy/playwright": "1.0.4",
         "@playwright/test": "1.38.1",
